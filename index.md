@@ -14,7 +14,7 @@ humantime: "12:00 pm - 2:00 pm ET (Unix), 12:00 - 2:00 pm ET (Python & R), 12:00
 startdate: 2023-02-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-15-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Robert Byles", "Dan Carver", "Sarah Hettema", "Danny Mangosing", "Brendan McAndrew", "Kenton Ross", "Caroline Williams"]
-helper: ["Kathryn Caruso", "Amanda Clayton", "Ryan Healey", "Sean McCartney", "Carli Merrick", "Lisa Tanh"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Kathryn Caruso", "Amanda Clayton", "Ryan Healey", "Sean McCartney", "Carli Merrick", "Michael Pazmino", "Lisa Tanh"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sean.mccartney@nasa.gov", "robert.byles@ssaihq.com", "celeste.gambino@ssaihq.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
